@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="331679652550037">
+            <conditions>
+                <condition id="3" name="On touched object" sid="605439105007097" type="Touch">
+                    <param id="0" name="Object">Sprite</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-9" name="Destroy" sid="630464719744767" type="Sprite" />
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
